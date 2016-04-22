@@ -18,7 +18,7 @@ The overall goal of this project is to better understand and communicate existin
 
 As you prepare your case study, consider your audience to be advanced undergraduates, graduate students, and other disciplinary scientists who want to learn the "how" of reproducible research by example. We will work to publish these case studies as an edited volume, where you will be credited as a chapter author for your case study, and in a Github repo or other similar open online platform.
 
-For more information about the project goals or framework, contact Justin Kitzes (jkitzes@berkeley.edu)
+For more information about the project goals or framework, contact Garret Christensen (garret@berkeley.edu) or Cyrus Dioun (dioun@berkeley.edu)
 
 ## What is a case study?
 
