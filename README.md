@@ -1,5 +1,6 @@
 # Social Science Reproducibility Case Studies
 Edited by Cyrus Dioun and Garret Christensen, Berkeley Institute for Data Science
+
 This project borrows liberally and with gratitude from the [Case Studies volume](https://github.com/BIDS/repro-case-studies) edited by Justin Kitzes, Daniel Turek, and Fatma Imamoglu.
 
 
