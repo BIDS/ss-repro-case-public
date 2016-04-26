@@ -43,7 +43,7 @@ If possible, please submit your case study as a pull request to this repository,
 Here are the steps to submit a case study as a pull request:
 
 - [Fork](https://help.github.com/articles/fork-a-repo/) the
-  [repro-case-studies](https://github.com/BIDS/repro-case-studies)
+  [repro-case-studies](https://github.com/BIDS/ss-repro-case-public)
   repository on GitHub.
 
 - Clone that repository onto your local machine using git.
