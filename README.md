@@ -31,7 +31,7 @@ When choosing a subject for your case study, __think small and concrete__. For a
 
 ## Case Study Instructions
 
-The case studies should be written using markdown. To help you complete your case study, we have provided a template that will guide you through a series of standard short answer questions. To complete your case study, simply open [this template](https://raw.githubusercontent.com/BIDS/ss-repro-case-public/master/template.md), save a copy of the template with a file name consisting of your first initial and last name (e.g. ``alovelace.md``), and replace the sections labeled ``[Answer]`` with your responses. Length suggestions are provided for each question. You may also wish to refer to the sample case studies (publication-based [from ecology](case-studies/jkitzes.md) or [economics](case-studies/gchristensen.md) and [software-based](case-studies/dturek.md) from statistics) for guidance.
+The case studies should be written using markdown. (If you don't know markdown, don't worry because it is [extremely simple](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).) To help you complete your case study, we have provided a template that will guide you through a series of standard short answer questions. To complete your case study, simply open [this template](https://raw.githubusercontent.com/BIDS/ss-repro-case-public/master/template.md), save a copy of the template with a file name consisting of your first initial and last name (e.g. ``alovelace.md``), and replace the sections labeled ``[Answer]`` with your responses. Length suggestions are provided for each question. You may also wish to refer to the sample case studies (publication-based [from ecology](case-studies/jkitzes.md) or [economics](case-studies/gchristensen.md) and [software-based](case-studies/dturek.md) from statistics) for guidance.
 
 In summary, the core of the case study is a visual diagram showing your workflow with an accompanying narrative description. You'll also be asked for additional detail on specific pain points (portions of the reproducible workflow that were failed, incomplete, or particularly challenging), key achievements, and key tools. Several general questions on your views of reproducibility will complete the case study.  
 
@@ -68,4 +68,4 @@ We can recommend three ways to view your case study document.
 1. [Commit and push your changes](http://readwrite.com/2013/10/02/github-for-beginners-part-2) to your GitHub fork. Then open a browser and navigate
   to ``https://github.com/YOURUSERNAME/ss-repro-case-public/case-studies/YOURFILENAME.md``
 2. Open it on your computer with an application like [Atom](https://atom.io/)
-3. Install Pandoc and, in your ``case-studies`` directory, run ``pandoc YOURFILENAME.md -o YOURFILENAME.pdf``
+3. Install [Pandoc](http://pandoc.org/installing.html) and, in your ``case-studies`` directory, run ``pandoc YOURFILENAME.md -o YOURFILENAME.pdf``
