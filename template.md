@@ -19,7 +19,9 @@ DOI_URL:
 
 The core of your case study is a diagrammatic workflow sketch, which depicts your the entire pipeline of your workflow. Think of this like a circuit diagram: boxes represent steps, tools, or other disjoint components, and arrows show how outputs of particular steps feed as inputs to others. This diagram will be complemented by a textual narrative.
 
-We recommend the site [http://draw.io](http://draw.io) for creating this diagram. While creating your diagram, be sure to consider:
+We recommend the site [http://draw.io](http://draw.io) for creating this diagram. Please draw your diagram so that it reads from left to right, and fills no more than half a standard US letter page. Use Helvetica font with at least 10 or 11pt size.
+
+While creating your diagram, be sure to consider:
 
 * specialized tools and where they enter your workflow
 * the "state" of the data at each stage
