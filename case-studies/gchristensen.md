@@ -9,7 +9,7 @@ Reproducibility to me is the ability of other researchers to get the same result
 
 ##### Workflow diagram
 
-See [Figure 1](https://drive.draw.io/#G0B_tfJAZML93oamdUdmxNLXctQVU).
+See [Figure 1](http://github.com/BIDS/ss-repro-case-public/case-studies/gchristensen.png).
 
 ##### Workflow narrative
 This project started with the idea, which I got from reading the newspaper, and hearing anecdotes about recruiting stations being overwhelmed after 9/11, and seeing popular reaction to the battle of Fallujah a few years later. The next step was obtaining the main data; a colleague just happened to have relevant data--the universe of US enlisted military recruits--through a Freedom of Information Act.
