@@ -1,3 +1,13 @@
+---
+AuthorName:
+Affiliation:
+WorkflowTitle:
+WorkflowDiagramURL:
+Discipline:
+Software:
+DOI_URL:
+---
+
 ##### Introduction
 *Please answer these introductory questions for your case study in a few sentences.*
 
@@ -9,7 +19,7 @@
 
 The core of your case study is a diagrammatic workflow sketch, which depicts your the entire pipeline of your workflow. Think of this like a circuit diagram: boxes represent steps, tools, or other disjoint components, and arrows show how outputs of particular steps feed as inputs to others. This diagram will be complemented by a textual narrative.
 
-We recommend the site http://draw.io for creating this diagram. While creating your diagram, be sure to consider:
+We recommend the site [http://draw.io](http://draw.io) for creating this diagram. While creating your diagram, be sure to consider:
 
 * specialized tools and where they enter your workflow
 * the "state" of the data at each stage
